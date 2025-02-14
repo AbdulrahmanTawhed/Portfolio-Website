@@ -9,10 +9,10 @@ Other: Git, GitHub
 Projects Showcase: A list of projects I've worked on with details and links.
 About Me Section: A brief introduction about me and my skills.
 Contact Form: A way to get in touch with me easily.
-🚀 Live Demo
-🔗 Portfolio Website
+
+🚀 Live Demo :
+https://abdulrahmantawhed.github.io/Portfolio-Website/
 
 📬 Contact
-Email: your-email@example.com
-LinkedIn: Your LinkedIn
-GitHub: Your GitHub
+Email: aboodtawhed@gmail.com
+LinkedIn: inkedin.com/in/abdulrahman-tawhed-7432342a0
